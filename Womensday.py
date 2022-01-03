@@ -15,7 +15,7 @@ words = [ 'Happys day','welcome']
 
 W = scene.width
 H = scene.height
-
+print("hi")
 @event
 def on_mouse_move(pos, rel):
     dx, dy = rel
