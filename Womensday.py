@@ -11,7 +11,7 @@ screen = scene.layers[0]
 screen.set_effect('bloom', radius=50, intensity=0.9)
 
 items = []
-words = [ 'Happy women''s day']
+words = [ 'Happys day','welcome']
 
 W = scene.width
 H = scene.height
